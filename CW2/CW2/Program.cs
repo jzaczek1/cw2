@@ -13,8 +13,7 @@ namespace CW2
         {
             var path = @"C:\Users\s18593\Desktop";
             var pathLog = @"C:\Users\s18593\Desktop";
-            string[] text2 = { "Podana scieżka", " jest niepoprawna" };
-            string text2 = "Podana sciexka";
+            string text = "Podan ścieżka jest niepoprawna";
 
             try
             {
@@ -25,12 +24,15 @@ namespace CW2
                 }
             }catch(ArgumentException ex)
             {
-                File.WriteAllLines(pathLog, text2);
+                File.WriteAllText(pathLog, text);
             }
             catch(FileNotFoundException ex)
             {
-
+                File.WriteAllText(pathLog, "Plik nazwa nie istnieje");
             }
+
+            //Newtonsoft.JSON   - to jakas biblioteka dodatkowa
+            //JsonConvert.SerializableObject() - nazwa metody bodajze
             
 
             var parsedDate = DateTime.Parse("2020-03-10");
@@ -39,7 +41,10 @@ namespace CW2
             var today = DateTime.Today;
             Console.WriteLine(today.ToShortDateString());
 
+            //metoda hasset.add() zwraca rowniez bool wiec mozna to przy kopiach
+            //wykorzystac
 
+            Console.WriteLine("Tekst");
         }
     }
 }
