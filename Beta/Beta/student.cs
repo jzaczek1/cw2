@@ -29,13 +29,13 @@ namespace Beta
         public student(string line)
         {
             var split = line.Split(",");
-            if (split.Length < 9) throw new NotEnoughFieldsException();
+            if (split.Length < 9) throw new NotEnoughFieldsException("Za mało pól exception");
 
             foreach (var s in split)
             {
                 if (s.Trim() == "")
                 {
-                    throw new EmptyFieldsException();
+                    throw new EmptyFieldsException("Puste pola Exception");
                 }
             }
 
