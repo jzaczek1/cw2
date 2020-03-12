@@ -2,7 +2,7 @@
   "profiles": {
     "Beta": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\studia\\4SEM\\APBD\\Beta\\Beta\\dane.csv D:\\studia\\4SEM\\APBD\\Beta\\Beta\\result.xml xml"
+      "commandLineArgs": "D:\\studia\\4SEM\\APBD\\Beta\\Beta\\dane.csv D:\\studia\\4SEM\\APBD\\Beta\\Beta\\result.json json"
     }
   }
 }
