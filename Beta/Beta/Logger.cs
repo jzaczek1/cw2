@@ -8,7 +8,7 @@ namespace Beta
 
         public Logger()
         {
-            file = new System.IO.StreamWriter("log.txt", true);
+            file = new System.IO.StreamWriter("log.txt");
             file.WriteLine(DateTime.Now);
         }
 
