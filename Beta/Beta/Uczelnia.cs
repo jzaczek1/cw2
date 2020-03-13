@@ -9,7 +9,6 @@ namespace Beta
     {
         [XmlAttribute]
         public string createdAt { get; set; }
-
         [XmlAttribute]
         public string author { get; set; }
         public HashSet<student> studenci { get; set; }

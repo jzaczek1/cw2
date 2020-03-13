@@ -1,31 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text.Json.Serialization;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 using Microsoft.VisualBasic.CompilerServices;
 
 namespace Beta
 {
     public class student
     {
-        public string fname { get; set; }
-        public string lname { get; set; }
-        public string birthdate { get; set; }
+        public string firstname { get; set; }
+        public string lastname { get; set; }
+        public string birthday { get; set; }
         public string email { get; set; }
         public string mothersName { get; set; }
         public string fathersName { get; set; }
-        public Studies studies { get; set; }
+        public Studia studia { get; set; }
 
 
         [XmlAttribute]
         public string indexNumber { get; set; }
 
-
-        public student()
+        public student()    // musi być konstruktor bez parametrow inaczej błąd wyrzuca przy serialzacji np. xml
         {
 
         }
+
         public student(string line)
         {
             var split = line.Split(",");
@@ -33,21 +29,21 @@ namespace Beta
 
             foreach (var s in split)
             {
-                if (s.Trim() == "")
+                if (s.Trim() == string.Empty)
                 {
                     throw new EmptyFieldsException("Puste pola Exception");
                 }
             }
 
-            fname = split[0];
-            lname = split[1];
-            studies = new Studies
+            firstname = split[0];
+            lastname = split[1];
+            studia = new Studia
             {
-                name = split[2],
-                mode = split[3]
+                nazwa = split[2],
+                tryb = split[3]
             };
             indexNumber = $"s{IntegerType.FromObject(split[4])}";
-            birthdate = split[5];
+            birthday = split[5];
             email = split[6];
             mothersName = split[7];
             fathersName = split[8];
@@ -56,32 +52,13 @@ namespace Beta
         public override string ToString()
         {
             return
-                $"{fname} {lname} {studies.name} {studies.mode} {indexNumber} {birthdate} {email} {mothersName} {fathersName}";
+                $"{firstname} {lastname} {studia.nazwa} {studia.tryb} {indexNumber} {birthday} {email} {mothersName} {fathersName}";
         }
     }
 
-    public class Studies
+    public class Studia
     {
-        public string name { get; set; }
-        public string mode { get; set; }
-    }
-
-    public class StudentComparer : IEqualityComparer<student>
-    {
-        public bool Equals(student x, student y)
-        {
-            return StringComparer
-                .InvariantCultureIgnoreCase
-                .Equals(
-                    $"{x.fname} {x.lname} {x.indexNumber}",
-                    $"{y.fname} {y.lname} {y.indexNumber}");
-        }
-
-        public int GetHashCode(student o)
-        {
-            return StringComparer
-                .CurrentCultureIgnoreCase
-                .GetHashCode($"{o.fname} {o.lname} {o.indexNumber}");
-        }
+        public string nazwa { get; set; }
+        public string tryb { get; set; }
     }
 }
