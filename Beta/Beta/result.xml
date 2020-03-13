@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" createdAt="12.03.2020" author="Jan Żaczek">
+<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" createdAt="13.03.2020" author="Jan Żaczek">
   <studenci>
     <student indexNumber="s459">
       <fname>Paweł</fname>
@@ -8,10 +8,10 @@
       <email>1@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4816">
       <fname>Kaja</fname>
@@ -20,10 +20,10 @@
       <email>29@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4749">
       <fname>Justyna</fname>
@@ -32,10 +32,10 @@
       <email>30@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4432">
       <fname>Michał</fname>
@@ -44,10 +44,10 @@
       <email>31@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4757">
       <fname>Kamil</fname>
@@ -56,10 +56,10 @@
       <email>32@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4655">
       <fname>Marta</fname>
@@ -68,10 +68,10 @@
       <email>33@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4398">
       <fname>Szymon</fname>
@@ -80,10 +80,10 @@
       <email>34@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4799">
       <fname>Joanna</fname>
@@ -92,10 +92,10 @@
       <email>37@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4626">
       <fname>Irena</fname>
@@ -104,10 +104,10 @@
       <email>38@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4446">
       <fname>Adam</fname>
@@ -116,10 +116,10 @@
       <email>39@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4396">
       <fname>Kacper</fname>
@@ -128,10 +128,10 @@
       <email>40@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4902">
       <fname>Paweł</fname>
@@ -140,10 +140,10 @@
       <email>41@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4434">
       <fname>Aleksandra</fname>
@@ -152,10 +152,10 @@
       <email>42@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów zaoczne</name>
         <mode>Zaoczne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4517">
       <fname>Katarzyna</fname>
@@ -164,10 +164,10 @@
       <email>43@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4705">
       <fname>Grzegorz</fname>
@@ -176,10 +176,10 @@
       <email>44@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4661">
       <fname>Adrian</fname>
@@ -188,10 +188,10 @@
       <email>45@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4842">
       <fname>Jan</fname>
@@ -200,10 +200,10 @@
       <email>46@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4709">
       <fname>Jakub</fname>
@@ -212,10 +212,10 @@
       <email>47@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4792">
       <fname>Iga</fname>
@@ -224,10 +224,10 @@
       <email>48@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4789">
       <fname>Jakub</fname>
@@ -236,10 +236,10 @@
       <email>49@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4708">
       <fname>Maria</fname>
@@ -248,10 +248,10 @@
       <email>50@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4404">
       <fname>Artur</fname>
@@ -260,10 +260,10 @@
       <email>51@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4513">
       <fname>Sabina</fname>
@@ -272,10 +272,10 @@
       <email>52@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4442">
       <fname>Łukasz</fname>
@@ -284,10 +284,10 @@
       <email>53@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4732">
       <fname>Marcin</fname>
@@ -296,10 +296,10 @@
       <email>54@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4506">
       <fname>Rafał</fname>
@@ -308,10 +308,10 @@
       <email>55@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4649">
       <fname>Jan</fname>
@@ -320,10 +320,10 @@
       <email>56@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4755">
       <fname>Jakub</fname>
@@ -332,10 +332,10 @@
       <email>57@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4890">
       <fname>Julia</fname>
@@ -344,10 +344,10 @@
       <email>58@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4594">
       <fname>Karol</fname>
@@ -356,10 +356,10 @@
       <email>59@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4925">
       <fname>Katarzyna</fname>
@@ -368,10 +368,10 @@
       <email>61@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4748">
       <fname>Marzena</fname>
@@ -380,10 +380,10 @@
       <email>62@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4720">
       <fname>Filip</fname>
@@ -392,10 +392,10 @@
       <email>63@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4423">
       <fname>Karolina</fname>
@@ -404,10 +404,10 @@
       <email>64@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4299">
       <fname>Mateusz</fname>
@@ -416,10 +416,10 @@
       <email>65@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4629">
       <fname>Magdalena</fname>
@@ -428,10 +428,10 @@
       <email>66@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4889">
       <fname>Igor</fname>
@@ -440,10 +440,10 @@
       <email>67@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4831">
       <fname>Bogumiła</fname>
@@ -452,10 +452,10 @@
       <email>68@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4478">
       <fname>Paweł</fname>
@@ -464,10 +464,10 @@
       <email>69@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4718">
       <fname>Marta</fname>
@@ -476,10 +476,10 @@
       <email>70@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4741">
       <fname>Kamil</fname>
@@ -488,10 +488,10 @@
       <email>71@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4444">
       <fname>Beata</fname>
@@ -500,10 +500,10 @@
       <email>72@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4552">
       <fname>Kacper</fname>
@@ -512,10 +512,10 @@
       <email>73@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4462">
       <fname>Gustaw</fname>
@@ -524,10 +524,10 @@
       <email>74@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4414">
       <fname>Arkadiusz</fname>
@@ -536,10 +536,10 @@
       <email>75@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4508">
       <fname>Sonia</fname>
@@ -548,10 +548,10 @@
       <email>76@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4800">
       <fname>Sandra</fname>
@@ -560,10 +560,10 @@
       <email>77@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4429">
       <fname>Małgorzata</fname>
@@ -572,10 +572,10 @@
       <email>78@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4927">
       <fname>Kiyomi</fname>
@@ -584,10 +584,10 @@
       <email>79@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4502">
       <fname>Konrad</fname>
@@ -596,10 +596,10 @@
       <email>80@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4744">
       <fname>Tomasz</fname>
@@ -608,10 +608,10 @@
       <email>81@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4477">
       <fname>Maciej</fname>
@@ -620,10 +620,10 @@
       <email>82@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4736">
       <fname>Katarzyna</fname>
@@ -632,10 +632,10 @@
       <email>83@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4849">
       <fname>Klaudia</fname>
@@ -644,10 +644,10 @@
       <email>84@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4819">
       <fname>Michał</fname>
@@ -656,10 +656,10 @@
       <email>85@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4445">
       <fname>Sebastian</fname>
@@ -668,10 +668,10 @@
       <email>86@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4707">
       <fname>Kamil</fname>
@@ -680,10 +680,10 @@
       <email>87@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4764">
       <fname>Jagna</fname>
@@ -692,10 +692,10 @@
       <email>88@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4722">
       <fname>Izabela</fname>
@@ -704,10 +704,10 @@
       <email>89@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4452">
       <fname>Mateusz</fname>
@@ -716,10 +716,10 @@
       <email>90@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4545">
       <fname>Daria</fname>
@@ -728,10 +728,10 @@
       <email>91@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4771">
       <fname>Agnieszka</fname>
@@ -740,10 +740,10 @@
       <email>92@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4706">
       <fname>Iwona</fname>
@@ -752,10 +752,10 @@
       <email>93@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4772">
       <fname>Aleksandra</fname>
@@ -764,10 +764,10 @@
       <email>94@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s3374">
       <fname>Tomasz</fname>
@@ -776,10 +776,10 @@
       <email>95@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4756">
       <fname>Jolanta</fname>
@@ -788,10 +788,10 @@
       <email>96@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4457">
       <fname>Aleksandra</fname>
@@ -800,10 +800,10 @@
       <email>97@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4412">
       <fname>Paweł</fname>
@@ -812,10 +812,10 @@
       <email>252@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4525">
       <fname>Dariusz</fname>
@@ -824,10 +824,10 @@
       <email>253@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4836">
       <fname>Kamil</fname>
@@ -836,10 +836,10 @@
       <email>254@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4788">
       <fname>Łukasz</fname>
@@ -848,10 +848,10 @@
       <email>255@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4474">
       <fname>Tomasz</fname>
@@ -860,10 +860,10 @@
       <email>256@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4454">
       <fname>Michał</fname>
@@ -872,10 +872,10 @@
       <email>257@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4443">
       <fname>Patryk</fname>
@@ -884,10 +884,10 @@
       <email>258@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4851">
       <fname>Bhagirath</fname>
@@ -896,10 +896,10 @@
       <email>259@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4579">
       <fname>Michał</fname>
@@ -908,10 +908,10 @@
       <email>260@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4461">
       <fname>Marek</fname>
@@ -920,10 +920,10 @@
       <email>261@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4747">
       <fname>Przemysław</fname>
@@ -932,10 +932,10 @@
       <email>262@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4762">
       <fname>Marcin</fname>
@@ -944,10 +944,10 @@
       <email>263@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4413">
       <fname>Zuzanna</fname>
@@ -956,10 +956,10 @@
       <email>264@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Zarządzanie informacją dzienne (kierunek Zarządzanie)</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4490">
       <fname>Michał</fname>
@@ -968,10 +968,10 @@
       <email>265@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4554">
       <fname>Wojciech</fname>
@@ -980,10 +980,10 @@
       <email>266@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4340">
       <fname>Enkh-Amgalan</fname>
@@ -992,10 +992,10 @@
       <email>267@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4586">
       <fname>Adrian</fname>
@@ -1004,10 +1004,10 @@
       <email>268@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4798">
       <fname>Bartosz</fname>
@@ -1016,10 +1016,10 @@
       <email>269@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4711">
       <fname>Jakub</fname>
@@ -1028,10 +1028,10 @@
       <email>270@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4056">
       <fname>Sebastian</fname>
@@ -1040,10 +1040,10 @@
       <email>271@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4549">
       <fname>Aleksandra</fname>
@@ -1052,10 +1052,10 @@
       <email>272@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4618">
       <fname>Piotr</fname>
@@ -1064,10 +1064,10 @@
       <email>273@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4530">
       <fname>Adrian</fname>
@@ -1076,10 +1076,10 @@
       <email>274@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4607">
       <fname>Andrzej</fname>
@@ -1088,10 +1088,10 @@
       <email>275@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4459">
       <fname>Wojciech</fname>
@@ -1100,10 +1100,10 @@
       <email>276@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4501">
       <fname>Monika</fname>
@@ -1112,10 +1112,10 @@
       <email>277@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4858">
       <fname>Jan</fname>
@@ -1124,10 +1124,10 @@
       <email>278@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4578">
       <fname>Paweł</fname>
@@ -1136,10 +1136,10 @@
       <email>279@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4555">
       <fname>Bartosz</fname>
@@ -1148,10 +1148,10 @@
       <email>280@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4589">
       <fname>Agata</fname>
@@ -1160,10 +1160,10 @@
       <email>281@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4945">
       <fname>Matthew</fname>
@@ -1172,10 +1172,10 @@
       <email>282@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4556">
       <fname>Piotr</fname>
@@ -1184,10 +1184,10 @@
       <email>283@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4504">
       <fname>Grzegorz</fname>
@@ -1196,10 +1196,10 @@
       <email>284@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4505">
       <fname>Sebastian</fname>
@@ -1208,10 +1208,10 @@
       <email>285@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4105">
       <fname>Filip</fname>
@@ -1220,10 +1220,10 @@
       <email>286@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4487">
       <fname>Jakub</fname>
@@ -1232,10 +1232,10 @@
       <email>287@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4498">
       <fname>Artur</fname>
@@ -1244,10 +1244,10 @@
       <email>288@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4471">
       <fname>Piotr</fname>
@@ -1256,10 +1256,10 @@
       <email>289@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4855">
       <fname>Małgorzata</fname>
@@ -1268,10 +1268,10 @@
       <email>290@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4752">
       <fname>Arkadiusz</fname>
@@ -1280,10 +1280,10 @@
       <email>291@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4770">
       <fname>Jakub</fname>
@@ -1292,10 +1292,10 @@
       <email>292@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4476">
       <fname>Adam</fname>
@@ -1304,10 +1304,10 @@
       <email>293@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4724">
       <fname>Tomasz</fname>
@@ -1316,10 +1316,10 @@
       <email>294@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4754">
       <fname>Piotr</fname>
@@ -1328,10 +1328,10 @@
       <email>295@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4769">
       <fname>Michał</fname>
@@ -1340,10 +1340,10 @@
       <email>296@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4499">
       <fname>Maciej</fname>
@@ -1352,10 +1352,10 @@
       <email>297@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4733">
       <fname>Jakub</fname>
@@ -1364,10 +1364,10 @@
       <email>298@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4584">
       <fname>Kasper</fname>
@@ -1376,10 +1376,10 @@
       <email>299@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4514">
       <fname>Krzysztof</fname>
@@ -1388,10 +1388,10 @@
       <email>300@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4448">
       <fname>Michał</fname>
@@ -1400,10 +1400,10 @@
       <email>301@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4664">
       <fname>Paweł</fname>
@@ -1412,10 +1412,10 @@
       <email>302@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4935">
       <fname>Katarzyna</fname>
@@ -1424,10 +1424,10 @@
       <email>303@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4485">
       <fname>Konrad</fname>
@@ -1436,10 +1436,10 @@
       <email>304@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4456">
       <fname>Piotr</fname>
@@ -1448,10 +1448,10 @@
       <email>305@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4107">
       <fname>Jan</fname>
@@ -1460,10 +1460,10 @@
       <email>306@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4482">
       <fname>Radosław</fname>
@@ -1472,10 +1472,10 @@
       <email>307@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4817">
       <fname>Kacper</fname>
@@ -1484,10 +1484,10 @@
       <email>308@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4765">
       <fname>Tomasz</fname>
@@ -1496,10 +1496,10 @@
       <email>309@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4387">
       <fname>Lech</fname>
@@ -1508,10 +1508,10 @@
       <email>310@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4509">
       <fname>Błażej</fname>
@@ -1520,10 +1520,10 @@
       <email>311@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4609">
       <fname>Karol</fname>
@@ -1532,10 +1532,10 @@
       <email>312@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4481">
       <fname>Paweł</fname>
@@ -1544,10 +1544,10 @@
       <email>313@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4512">
       <fname>Wojciech</fname>
@@ -1556,10 +1556,10 @@
       <email>314@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4782">
       <fname>Maciej</fname>
@@ -1568,10 +1568,10 @@
       <email>315@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4492">
       <fname>Michał</fname>
@@ -1580,10 +1580,10 @@
       <email>316@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4531">
       <fname>Piotr</fname>
@@ -1592,10 +1592,10 @@
       <email>317@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4406">
       <fname>Marcin</fname>
@@ -1604,10 +1604,10 @@
       <email>318@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4394">
       <fname>Krzysztof</fname>
@@ -1616,10 +1616,10 @@
       <email>319@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4627">
       <fname>Michał</fname>
@@ -1628,10 +1628,10 @@
       <email>320@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka internetowe magisterskie</name>
         <mode>Internetowe</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4830">
       <fname>Krzysztof</fname>
@@ -1640,10 +1640,10 @@
       <email>321@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4486">
       <fname>Adrian</fname>
@@ -1652,10 +1652,10 @@
       <email>322@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4447">
       <fname>Mariusz</fname>
@@ -1664,10 +1664,10 @@
       <email>323@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4580">
       <fname>Bartosz</fname>
@@ -1676,10 +1676,10 @@
       <email>324@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4284">
       <fname>Piotr</fname>
@@ -1688,10 +1688,10 @@
       <email>325@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4440">
       <fname>Michał</fname>
@@ -1700,10 +1700,10 @@
       <email>326@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4410">
       <fname>Aleksander</fname>
@@ -1712,10 +1712,10 @@
       <email>327@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4615">
       <fname>Andrzej</fname>
@@ -1724,10 +1724,10 @@
       <email>328@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4796">
       <fname>Paweł</fname>
@@ -1736,10 +1736,10 @@
       <email>329@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4458">
       <fname>Paweł</fname>
@@ -1748,10 +1748,10 @@
       <email>330@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4942">
       <fname>Nakul</fname>
@@ -1760,10 +1760,10 @@
       <email>332@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4614">
       <fname>Tomoto</fname>
@@ -1772,10 +1772,10 @@
       <email>333@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4822">
       <fname>Krzysztof</fname>
@@ -1784,10 +1784,10 @@
       <email>334@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4433">
       <fname>Adam</fname>
@@ -1796,10 +1796,10 @@
       <email>335@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4557">
       <fname>Jan</fname>
@@ -1808,10 +1808,10 @@
       <email>336@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4599">
       <fname>Gabriel</fname>
@@ -1820,10 +1820,10 @@
       <email>337@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4419">
       <fname>Michał</fname>
@@ -1832,10 +1832,10 @@
       <email>338@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4828">
       <fname>Michał</fname>
@@ -1844,10 +1844,10 @@
       <email>339@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4460">
       <fname>Kacper</fname>
@@ -1856,10 +1856,10 @@
       <email>340@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4058">
       <fname>Adrian</fname>
@@ -1868,10 +1868,10 @@
       <email>341@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4524">
       <fname>Michał</fname>
@@ -1880,10 +1880,10 @@
       <email>342@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4588">
       <fname>Katarzyna</fname>
@@ -1892,10 +1892,10 @@
       <email>343@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4743">
       <fname>Piotr</fname>
@@ -1904,10 +1904,10 @@
       <email>344@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4721">
       <fname>Karol</fname>
@@ -1916,10 +1916,10 @@
       <email>345@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4544">
       <fname>Radosław</fname>
@@ -1928,10 +1928,10 @@
       <email>346@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4426">
       <fname>Marco</fname>
@@ -1940,10 +1940,10 @@
       <email>347@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4532">
       <fname>Jagoda</fname>
@@ -1952,10 +1952,10 @@
       <email>348@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4480">
       <fname>Tomasz</fname>
@@ -1964,10 +1964,10 @@
       <email>349@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4441">
       <fname>Przemysław</fname>
@@ -1976,10 +1976,10 @@
       <email>350@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4523">
       <fname>Michał</fname>
@@ -1988,10 +1988,10 @@
       <email>351@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4766">
       <fname>Bartosz</fname>
@@ -2000,10 +2000,10 @@
       <email>352@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4941">
       <fname>Achut</fname>
@@ -2012,10 +2012,10 @@
       <email>353@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4647">
       <fname>Aleksander</fname>
@@ -2024,10 +2024,10 @@
       <email>354@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4500">
       <fname>Jan</fname>
@@ -2036,10 +2036,10 @@
       <email>355@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4422">
       <fname>Yuriy</fname>
@@ -2048,10 +2048,10 @@
       <email>356@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4660">
       <fname>Michał</fname>
@@ -2060,10 +2060,10 @@
       <email>357@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4521">
       <fname>Michał</fname>
@@ -2072,10 +2072,10 @@
       <email>358@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4585">
       <fname>Piotr</fname>
@@ -2084,10 +2084,10 @@
       <email>359@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s3081">
       <fname>Mikołaj</fname>
@@ -2096,10 +2096,10 @@
       <email>360@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4710">
       <fname>Dariusz</fname>
@@ -2108,10 +2108,10 @@
       <email>361@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4385">
       <fname>Anna</fname>
@@ -2120,10 +2120,10 @@
       <email>362@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4529">
       <fname>Piotr</fname>
@@ -2132,10 +2132,10 @@
       <email>363@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4522">
       <fname>Michał</fname>
@@ -2144,10 +2144,10 @@
       <email>364@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka zaoczne</name>
         <mode>Zaoczne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4827">
       <fname>Dawid</fname>
@@ -2156,10 +2156,10 @@
       <email>365@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4518">
       <fname>Karol</fname>
@@ -2168,10 +2168,10 @@
       <email>366@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4384">
       <fname>Adrian</fname>
@@ -2180,10 +2180,10 @@
       <email>367@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4496">
       <fname>Łukasz</fname>
@@ -2192,10 +2192,10 @@
       <email>368@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4750">
       <fname>Adam</fname>
@@ -2204,10 +2204,10 @@
       <email>369@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4111">
       <fname>Arkadiusz</fname>
@@ -2216,10 +2216,10 @@
       <email>370@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4484">
       <fname>Jakub</fname>
@@ -2228,10 +2228,10 @@
       <email>371@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4483">
       <fname>Michał</fname>
@@ -2240,10 +2240,10 @@
       <email>372@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4751">
       <fname>Tomasz</fname>
@@ -2252,10 +2252,10 @@
       <email>373@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4528">
       <fname>Radosław</fname>
@@ -2264,10 +2264,10 @@
       <email>374@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4533">
       <fname>Paweł</fname>
@@ -2276,10 +2276,10 @@
       <email>375@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4814">
       <fname>Przemysław</fname>
@@ -2288,10 +2288,10 @@
       <email>376@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4753">
       <fname>Adam</fname>
@@ -2300,10 +2300,10 @@
       <email>377@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4520">
       <fname>Dawid</fname>
@@ -2312,10 +2312,10 @@
       <email>378@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4837">
       <fname>Adrian</fname>
@@ -2324,10 +2324,10 @@
       <email>379@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4611">
       <fname>Sławomir</fname>
@@ -2336,10 +2336,10 @@
       <email>380@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4616">
       <fname>Rafał</fname>
@@ -2348,10 +2348,10 @@
       <email>381@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
     <student indexNumber="s4603">
       <fname>Agnieszka</fname>
@@ -2360,10 +2360,10 @@
       <email>382@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
-      <studies>
+      <studia>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
+      </studia>
     </student>
   </studenci>
 </uczelnia>
